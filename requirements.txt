@@ -1,0 +1,5 @@
+# The application itself (python main.py) needs NO third-party packages:
+# it only uses Python's standard library (including Tkinter).
+#
+# Matplotlib is needed ONLY to draw the benchmark graphs (benchmarks/plot_results.py).
+matplotlib>=3.5
